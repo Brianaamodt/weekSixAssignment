@@ -1,2 +1,4 @@
 >$ git add gitInstructions.txt
->$ git commit
+>$ git commit gitInstructions.txt
+>$ git fetch weekSixAssignment
+>$ git push weekSixAssignment master
